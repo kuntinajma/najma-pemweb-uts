@@ -35,7 +35,7 @@
                         <input type="password" class="form-control" id="password" name="password" required>
                     </div>
                     <div class="d-flex justify-content-end">
-                        <button type="submit" class="btn btn-primary">Login</button>
+                        <button type="submit" class="btn btn-primary w-100">Login</button>
                     </div>
                 </form>
                 <div class="text-center mt-3">
