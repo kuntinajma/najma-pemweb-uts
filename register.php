@@ -20,7 +20,7 @@
             <div class="card-body">
                 <h2 class="text-center">Register</h2>
                 <br>
-                <form action="process.php" method="post">
+                <form action="proses.php" method="post">
                     <div class="mb-3">
                         <label for="fullname" class="form-label">Nama Lengkap</label>
                         <input type="text" class="form-control" id="fullname" name="fullname" required>

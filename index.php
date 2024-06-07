@@ -25,7 +25,7 @@
                         <?php echo htmlspecialchars($_GET['message']); ?>
                     </div>
                 <?php endif; ?>
-                <form action="process.php" method="post">
+                <form action="proses.php" method="post">
                     <div class="mb-3">
                         <label for="username" class="form-label">Username</label>
                         <input type="text" class="form-control" id="username" name="username" required>
